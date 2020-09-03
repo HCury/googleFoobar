@@ -5,7 +5,7 @@ This is my experience with Google Foobar Challenge. All answers are completed in
 <h2>Level 1:</h2>
 For level 1, I was challenged by Re-ID. You can find the problem set below.
 
-Problem | Solution
+<a href ="https://github.com/HCury/googleFoobar/blob/master/Level%201/reID.txt" Problem </a>|<a href = "https://github.com/HCury/googleFoobar/blob/master/Level%201/solution.py" Solution </a>
 
 <h2>Level 2:</h2>
 
