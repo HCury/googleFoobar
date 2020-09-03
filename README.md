@@ -11,7 +11,7 @@ For level 1, I was challenged by Re-ID. You can find the problem set below.
 
 
 <h4>Commander Lambda sure is a task-master, isn't she? You're being worked to the bone!
-
+  
 You survived a week in Commander Lambda's organization, and you even managed to get yourself promoted. Hooray! Henchmen still don't have the kind of security access you'll need to take down Commander Lambda, though, so you'd better keep working. Chop chop!</h4>
 
 <h2>Level 2:</h2>
